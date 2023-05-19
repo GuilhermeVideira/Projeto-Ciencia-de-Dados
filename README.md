@@ -4,7 +4,7 @@
             
 💻 O projeto foi desenvolvido juntamente com o Lira da Hashtag Programação no intensivão de Python da aula 04, que ocorreu durante os dias 15 a 18 de maio de 2023. 💻
 
-O desafio da aula e projeto foi de conseguir desenvolver uma inteligência artifical capaz de prever o preço de barco que vande baseado nas caracteristicas do barco, como: ano, tamanho, tipo de barco, se é novo ou usado, e qual material é usado. 
+O desafio da aula e projeto foi de conseguir desenvolver uma inteligência artifical capaz de prever o preço de barco que vande baseado nas caracteristicas do barco, como: ano, tamanho, tipo de barco, se o barco é novo ou usado, e qual material é usado. 
 
 A resolução foi concluida a um passo a passo: 
 
